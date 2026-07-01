@@ -34,7 +34,7 @@ Programming teacher and developer focused on building full-stack web application
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="250" />
 </p>
 
 ---
