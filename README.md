@@ -32,7 +32,13 @@ Programming teacher and developer focused on building full-stack web application
 - Scalable systems
 
 ---
+## 🐱
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" />
+</p>
+
+---
 <p align="center">
 💜
 </p>
