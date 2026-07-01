@@ -1,16 +1,14 @@
-# Hi, I'm Anna 👋
+# Anna
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Programming+Instructor;Full-Stack+Web+Developer;Mobile+Developer;Clean+Code+%26+Architecture" />
-</p>
+### Programming Instructor • Full-Stack Web & Mobile Developer
 
 ---
 
-## 💜 About Me
+## 💜 About
 
-Programming Instructor • Full-Stack Web & Mobile Developer
+Programming Instructor and developer focused on building full-stack web applications, mobile apps and backend systems.
 
-I build modern web and mobile applications, design backend systems, and teach programming with a focus on practical development and clean architecture.
+I work with modern web technologies, Android development, and enjoy teaching practical software engineering.
 
 ---
 
@@ -35,42 +33,39 @@ I build modern web and mobile applications, design backend systems, and teach pr
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
-### 🚗 Auto Service Mobile App
-Android application for managing car services, bookings and user vehicles.  
-**Java · Android · MVVM · Node.js · MySQL**
+### Auto Service Mobile App
+Mobile application for managing car services, bookings and user vehicles.
 
----
-
-### 🚚 GasMonitor
-Platform for transportation monitoring and logistics management.  
-**Django · PostgreSQL · JavaScript**
+**Stack:** Java • Android • MVVM • Node.js • MySQL
 
 ---
 
-### 🌿 Green Garden
-Business website with admin panel and client requests system.  
-**Django · HTML · CSS · JavaScript**
+### GasMonitor Platform
+System for transportation monitoring and logistics management.
+
+**Stack:** Django • PostgreSQL • JavaScript
 
 ---
 
-## 📬 Contact Me
+### Green Garden System
+Web platform with admin panel and client request management.
 
-<p align="center">
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://t.me/your_username">
-<img src="https://skillicons.dev/icons?i=telegram" />
-</a>
-<a href="https://linkedin.com/in/your_username">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
+**Stack:** Django • HTML • CSS • JavaScript
+
+---
+
+## 📌 Focus Areas
+
+- Full-stack web development
+- Android mobile applications
+- Backend architecture & APIs
+- Teaching programming & mentoring
+- Clean code & scalable systems
 
 ---
 
 <p align="center">
-💜 Code • Teach • Build • Repeat
+💜 Build. Learn. Teach.
 </p>
