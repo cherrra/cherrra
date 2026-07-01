@@ -8,7 +8,7 @@ Programming teacher and developer focused on building full-stack web application
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,angular,vue,nodejs,nestjs,expo,kotlin,java,spring,mysql&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,expo,kotlin,java,spring,mysql&perline=8" />
 </p>
 
 ---
