@@ -1,14 +1,7 @@
-# Anna
-
-### Programming Instructor • Full-Stack Web & Mobile Developer
-
----
 
 ## 💜 About
 
-Programming Instructor and developer focused on building full-stack web applications, mobile apps and backend systems.
-
-I work with modern web technologies, Android development, and enjoy teaching practical software engineering.
+Programming teacher and developer focused on building full-stack web applications, mobile apps and backend systems.
 
 ---
 
