@@ -1,16 +1,23 @@
-
 # Hi, I'm Anna 👋
 
-### Programming Instructor | Full-Stack Web & Mobile Developer
-
-Building modern web and mobile applications with a focus on clean architecture, intuitive user experiences, and continuous learning.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Programming+Instructor;Full-Stack+Web+Developer;Mobile+Developer;Clean+Code+%26+Architecture" />
+</p>
 
 ---
 
-## 💜 Tech Stack
+## 💜 About Me
+
+Programming Instructor • Full-Stack Web & Mobile Developer
+
+I build modern web and mobile applications, design backend systems, and teach programming with a focus on practical development and clean architecture.
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,java,spring,php,mysql,git,androidstudio,figma,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,java,spring,php,mysql,androidstudio,git,figma,vscode&perline=8" />
 </p>
 
 ---
@@ -18,7 +25,7 @@ Building modern web and mobile applications with a focus on clean architecture, 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
@@ -30,42 +37,40 @@ Building modern web and mobile applications with a focus on clean architecture, 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🚗 **Auto Service Mobile App** | Android application for managing vehicle maintenance and service bookings. | Java · Android · MVVM · Node.js · MySQL |
-| 🚚 **GasMonitor** | Web platform for monitoring transportation processes and managing logistics. | Django · PostgreSQL · JavaScript |
-| 🌿 **Green Garden** | Business website with an administration panel and online consultation requests. | Django · HTML · CSS · JavaScript |
-| 💪 **Fitness Trainer Finder** | Web service for selecting fitness trainers based on user preferences. | Django · JavaScript · PostgreSQL |
+### 🚗 Auto Service Mobile App
+Android application for managing car services, bookings and user vehicles.  
+**Java · Android · MVVM · Node.js · MySQL**
 
 ---
 
-## 🌱 Currently Exploring
-
-- Spring Boot
-- Modern React Ecosystem
-- REST API Design
-- Software Architecture
-- UI/UX Best Practices
+### 🚚 GasMonitor
+Platform for transportation monitoring and logistics management.  
+**Django · PostgreSQL · JavaScript**
 
 ---
 
-## 📫 Connect With Me
+### 🌿 Green Garden
+Business website with admin panel and client requests system.  
+**Django · HTML · CSS · JavaScript**
 
-<p align="left">
-  <a href="mailto:your@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
-  </a>
-  <a href="https://t.me/your_username">
-    <img src="https://skillicons.dev/icons?i=telegram" height="42" />
-  </a>
-  <a href="https://www.linkedin.com/in/your_username/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
-  </a>
+---
+
+## 📬 Contact Me
+
+<p align="center">
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://t.me/your_username">
+<img src="https://skillicons.dev/icons?i=telegram" />
+</a>
+<a href="https://linkedin.com/in/your_username">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code. Learn. Teach. Repeat.”</i> 💜
+💜 Code • Teach • Build • Repeat
 </p>
-```
