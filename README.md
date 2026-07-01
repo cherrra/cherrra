@@ -34,7 +34,7 @@ Programming teacher and developer focused on building full-stack web application
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif](https://media1.tenor.com/m/LK628grSBnEAAAAd/cat-ai-pufferfish-cat.gif" width="250" />
 </p>
 
 ---
