@@ -13,16 +13,6 @@ Programming teacher and developer focused on building full-stack web application
 
 ---
 
-## Analytics
-
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
-
----
-
 ## Focus Areas
 
 - Full-stack web development
