@@ -1,10 +1,3 @@
-
-## 💜 About
-
-Programming teacher and developer focused on building full-stack web applications, mobile apps and backend systems.
-
----
-
 ## Tech Stack
 
 <p align="center">
@@ -13,15 +6,6 @@ Programming teacher and developer focused on building full-stack web application
 
 ---
 
-## Focus Areas
-
-- Full-stack web development
-- Android mobile applications
-- Backend architecture & APIs
-- Teaching programming & mentoring
-- Scalable systems
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="250" />
